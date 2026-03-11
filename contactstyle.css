@@ -29,7 +29,7 @@ body{
     border:20px  rgba(15,23,42,.65);
     opacity: 1;
     transition: .35 ease;
-    z-index: 9999;
+    z-index: 10;
 }
 .floating-menu.show{
   opacity: 1;
@@ -93,4 +93,5 @@ body{
 .box span{
     margin-top: 10px;
     font-size: 15px;
+
 }
